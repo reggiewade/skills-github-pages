@@ -1,5 +1,6 @@
 ---
-title: Welcome to Reggie's blog
+title: "FIRST-PAGE
+date: 2025-11-05
 ---
 
-anyone out there?
+This is my first blog post.
